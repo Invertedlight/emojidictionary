@@ -14,6 +14,7 @@
 		96D67737246788D7007ADDDE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96D67736246788D7007ADDDE /* Assets.xcassets */; };
 		96D6773A246788D7007ADDDE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96D67738246788D7007ADDDE /* LaunchScreen.storyboard */; };
 		96D6774224679E6F007ADDDE /* DefinitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D6774124679E6F007ADDDE /* DefinitionViewController.swift */; };
+		96D677442467C4F1007ADDDE /* Emoji.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D677432467C4F1007ADDDE /* Emoji.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		96D67739246788D7007ADDDE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		96D6773B246788D7007ADDDE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		96D6774124679E6F007ADDDE /* DefinitionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefinitionViewController.swift; sourceTree = "<group>"; };
+		96D677432467C4F1007ADDDE /* Emoji.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Emoji.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			children = (
 				96D6772D246788D6007ADDDE /* AppDelegate.swift */,
 				96D6772F246788D6007ADDDE /* SceneDelegate.swift */,
+				96D677432467C4F1007ADDDE /* Emoji.swift */,
 				96D6774124679E6F007ADDDE /* DefinitionViewController.swift */,
 				96D67731246788D6007ADDDE /* ViewController.swift */,
 				96D67733246788D6007ADDDE /* Main.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				96D677442467C4F1007ADDDE /* Emoji.swift in Sources */,
 				96D67732246788D6007ADDDE /* ViewController.swift in Sources */,
 				96D6774224679E6F007ADDDE /* DefinitionViewController.swift in Sources */,
 				96D6772E246788D6007ADDDE /* AppDelegate.swift in Sources */,
